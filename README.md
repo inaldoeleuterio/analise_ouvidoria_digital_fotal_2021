@@ -7,10 +7,10 @@ Neste notebook iremos realizar uma análise exploratória sobre alguns aspectos 
 
 A orientação desta pesquisa se dá em torno de 4 questões:
 
-1 - Qual mês houve mais ocorrências?
-2 - Qual orgão é mais demandado?
-3 - Como os cidadãos e cidadãs demandam esses atendimentos?
+1 - Qual mês houve mais ocorrências?<br>
+2 - Qual orgão é mais demandado?<br>
+3 - Como os cidadãos e cidadãs demandam esses atendimentos?<br>
 4 - Quão eficiente é a reposta para com o atendimento?
 
 ## Os dados
-Os dados foram extraídos do site [Dados Abertos Fortaleza](https://dados.fortaleza.ce.gov.br/) da sessão de Gestão Pública e corespondem ao ano de 2021.
+Os dados foram extraídos do site [Dados Abertos Fortaleza](https://dados.fortaleza.ce.gov.br/) da sessão de Gestão Pública. A tabela, já em .csv, contém as manifestações direcionadas a ouvidoria referente a vários órgãos da administração pública municipal.
